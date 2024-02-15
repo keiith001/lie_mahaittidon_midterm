@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# lie_mahaittidon_midterm
-This is a repo for an argument on Rainy Season vs Winter Season
-=======
 # The Best Season in The World:
 ## Why Nate Prefers Rainy Seasons While Keith Favors Winter
 
@@ -43,4 +39,3 @@ Keith Richard Lie
 ## License
 
 MIT
->>>>>>> Stashed changes
